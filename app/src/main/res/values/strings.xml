@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PromptMessageMode</string>
+    <string name="email_sent">This is a snackbar!</string>
+</resources>
